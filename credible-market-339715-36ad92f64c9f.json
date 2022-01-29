@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "credible-market-339715",
+  "private_key_id": "36ad92f64c9fcbf3effb03b5dbaba6e827663f7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzdXF+t+hRZj1Z\nWbQ7WRaBKnjXX/9mSnVH578B/SOoc74UphD1zzozUZAR8c8+pnrrfWsgYlQ1e0lo\nCVha46cniDFArDWKppmQT1setVZMp/skBpNKyyWRzbEWtCC8uAuMccy33Q6aqSa0\nsvMlnqIPoJ2TcCuHXTFgf/MAR4Rru4IDAhZ+FlajInTxbGmDeGfY3aGWKAuIgOCy\nhrDggIbOPt6w3FUmWPEk320otGvps7SgTpquIcg662WldeQ6OCh4dwTPk3Cqkcly\nYg7WyECv1VOa4t5DmKMrG67N5mOXFw5Sng8xD72NT1f2iyCL3LkNLlP7fodNNffq\npVD5vw8pAgMBAAECggEAQg0sgFj9Q5SPaQcYzK0+GL2Cq7b0IHiwUQ5tobRDvxkW\nsa/r1yV2RPQ0xD4NqwAIhwtq9gjq+KJPguDJqe5XlDfO9QBNVqJ6LADhR1y0DlPX\nnktjRCigQ9mC4BndYMiWy5MJJ/VPjkJK8kBZORP5jyntRZqIEvMMnPmK/aPVC/dh\n+X0RlWu7+lu0VAQDhYKoKC0m3l8dlWtfPrYbwc7piVT+YL4rvGFWXqde5ygICHNI\nBVBhGUWjnLPhWiuv9ogWciuQtZFI8ebck3cK8nDobar/6ojQXYRS0rlTUhcqbU56\nPWr25bcupTOadA0QYzxyfrsR2jHlHzgbQwojYkIGhwKBgQDqZzF3XlSegI3EB3fs\n/etV0cfw6vY3omFDmU2ZUtPh35FSD6wEhpxX/Ro9r/L9FVD4ARtrhJGmA1uGDhzZ\nT8nqAw0J2Krcoud9+PATdExEqTSVMchNqR1h+od/kRoIUNkxpNUcg1e2rEZAWQNN\nw7pZO8wBmbm0EIJ5HjSEjqTgswKBgQDD/kq7uIFfxVFUKkKv/SbUMs6HpkPdab2F\nlwkgjdenpC91yGR03zZAcR/Udyi3TjrAu76XZqocLLXZ6alOj29M2jR3QwZJ/fpH\ni0zdORBFFEma+T2vI39wFnxAeqaO8Zq++BLHYZYKWGxSUxHraUWzyngT05GajriI\nBmYgxWdGswKBgG6RktHd20iRF046v6U4+YOX2xqXmuEPZZX/gI0sdun7DY+J+PiB\njsoqh/BFSPd80J7L1uVWuWV3+/o2OgGAE5yhJ8tXOvGsnknb3VMv7rIMptMhknyf\no06OYNAZ4A/AI1O5jxVOF1gB13mPA3HxO7vP6yFuJBz+FK2RQ/CrYLblAoGBAJXL\ngADTdoXlAFDMb+WkHQ4nurPwfoP2MjStB/vKjR2CngduXmD4zLUaANLZM9RNxRfT\nJkr+21rnTSG8tXrmo5FgYKMaJe9dXvFZZSjbWTUC2XLJtbxq7BaWCOcbFru/qp70\naR3b1toXVMri1JpQ/kX4pCe7FtjC5gSIp3u6hEGDAoGBAJWzbgNv/wRiHgp5s7YR\nO0yNfjTiiJbRObV1VV1RGU8OfpfjNSu12fcQ3pJxDs6LfnKMfd3oVXnYOhPlXQtq\n0vEUGwlzYhBlyP8UG+KuQ6vufRDKw4MYGGLlyVVtT7N2KmE69M3reQedzxDDeqmG\nbOlJZFO6ZH1cxC+AEoN2lILn\n-----END PRIVATE KEY-----\n",
+  "client_email": "bb-752@credible-market-339715.iam.gserviceaccount.com",
+  "client_id": "109995666823106421744",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bb-752%40credible-market-339715.iam.gserviceaccount.com"
+}
